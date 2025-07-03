@@ -11,14 +11,17 @@ This repo contains a Juptyer Lab notebook following a walkthrough of statistical
 
 ### Clone the Repository
 git clone https://github.com/ilike-gges1/Assignment4-Stats-Scripts
+
 cd Assignment4-Stats-Scripts
 
 ### Create the Conda Environment
 conda env create -f environment-stats.yml
+
 conda activate stats-env
 
 ### Launch Jupyter Lab
 jupyter lab
+
 Navigate to and open "notebooks/stats_python.ipynb
 
 ## License
