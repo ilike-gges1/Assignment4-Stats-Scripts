@@ -1,0 +1,15 @@
+# Ignore all Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Lab Notebook checkpoints
+.ipynb/
+
+#Ignore environments
+.env/
+.venv/
+
+# Ignore data and csv files
+data/
+*.csv
+*.txt
