@@ -5,7 +5,11 @@ __pycache__/
 # Ignore Jupyter Lab Notebook checkpoints
 .ipynb/
 .ipynb_checkpoint
+*.ipynb/
+*.ipynb_checkpoint
 .ipynb_checkpoints
+*.ipynb_checkpoints
+**/*.ipynb_checkpoints/
 
 #Ignore environments
 .env/
