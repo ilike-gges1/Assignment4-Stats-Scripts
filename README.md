@@ -2,10 +2,13 @@
 This repo contains a Juptyer Lab notebook following a walkthrough of statistical analyses in Python. The goal of this exercise is to understand how Python can be used to build analysis pipelines, and how to measure significance, create formulas, visualize data, and condition the data to best fit your analysis.
 
 ## Contents
-├── notebooks/
-│ └── stats_python.ipynb # Notebook with completed exercises and comments
-├── environment-stats.yml # Conda environment definition
-└── README.md # This file
+notebooks/
+
+         stats_python.ipynb # Notebook with completed exercises and comments
+
+environment-stats.yml # Conda environment definition
+
+README.md # This file
 
 ## Getting Started!
 
