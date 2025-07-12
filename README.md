@@ -4,7 +4,7 @@ This repo contains a Juptyer Lab notebook following a walkthrough of statistical
 ## Contents
 notebooks/
 
-         stats_python.ipynb # Notebook with completed exercises and comments
+stats_python.ipynb # Notebook with completed exercises and comments
 
 environment-stats.yml # Conda environment definition
 
